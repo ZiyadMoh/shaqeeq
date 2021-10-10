@@ -1,6 +1,6 @@
 # SHAQEEQ
 
-![](https://i.postimg.cc/9Fy0yyRd/logo.jpg)
+<img src="https://i.postimg.cc/9Fy0yyRd/logo.jpg" width="100" height="100">
 
 a project for Humanathon Innovation Hackathon
 
